@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Liam.
 ## 🚀 About Me
-- 🔭 I'm currently working on a moderation Discord bot
+- 🔭 I'm currently working on a Discord moderation bot with C# and various React.Js built websites.
 - 🌱 I'm learning C#
 - 💬 Ask me about anything...
 
