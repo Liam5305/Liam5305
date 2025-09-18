@@ -1,8 +1,7 @@
 # 👋 Hey there, I'm Liam.
 ## 🚀 About Me
-- 🔭 I'm currently working on a Discord moderation bot with C# and various React.Js built websites.
-- 🌱 I'm learning C#
-- 💬 Ask me about anything...
+- 🔭 I'm currently working many RDM Solutions
+- 🌱 I'm learning embedded software for home automation through Raspberry Pi
 
 ## 📊 My GitHub Stats
 
