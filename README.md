@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Liam.
 ## 🚀 About Me
-- 🔭 I'm currently working many RDM Solutions
+- 🔭 I'm currently working on many RDM Solutions
 - 🌱 I'm learning embedded software for home automation through Raspberry Pi
 
 ## 📊 My GitHub Stats
